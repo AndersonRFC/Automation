@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5nIyRA8UbXijM5DRgAUVkBZH7fwX9XR/lTwLEXEUEXu9KU6neR7X3oT4HY62JTyFgDbM1OUd4X4BhqFvoUuPeg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\2023\\Dezembro\\AutoPubli\\AutoPubli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antss\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Antss\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\Antss\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
